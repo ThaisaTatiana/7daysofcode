@@ -1,0 +1,2 @@
+# Para preparar e configurar o ambiente Python, é necessário instalar os pacotes abaixo:
+!pip3 install chainlit pyngrok langchain optimum auto-gptq --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu
