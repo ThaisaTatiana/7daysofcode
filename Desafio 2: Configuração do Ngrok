@@ -1,0 +1,3 @@
+# Neste desafio instalei o chocolatey, e o ngrok. COnfigurei o ngrok, criando uma conta e gerando o token.
+choco install ngrok
+ngrok config add-authtoken <TOKEN>
